@@ -1,0 +1,15 @@
+{
+    "name": "simple-user-docker",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "scripts": {
+        "start": "node alhasil.js",
+        "dev": "nodemon alhasil.js"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}
